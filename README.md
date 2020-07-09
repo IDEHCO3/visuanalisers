@@ -1,2 +1,6 @@
 # visuanalisers
-Visualizar 
+# git clone 
+# cd visuanalisers
+# npm i
+# npm run dev
+
